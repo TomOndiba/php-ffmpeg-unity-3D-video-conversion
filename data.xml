@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prvalues>
+  <prdata>
+    <pruploader_name>Potrait Test1</pruploader_name>
+    <pruploader_email>bikramtpa@gmail.com</pruploader_email>
+    <prvideoname>Potrait Test</prvideoname>
+    <pr_ogg1>http://localhost/uploads.prospervr.com/uploads/videos/914870967_1.ogg</pr_ogg1>
+    <pr_ogg2>http://localhost/uploads.prospervr.com/uploads/videos/914870967_2.ogg</pr_ogg2>
+    <pr_ogg3>http://localhost/uploads.prospervr.com/uploads/videos/914870967_3.ogg</pr_ogg3>
+    <prvideourl>http://localhost/uploads.prospervr.com/uploads/videos/914870967.mp4</prvideourl>
+    <prdesc>Hey...</prdesc>
+    <prloc>Tampere</prloc>
+    <pr_labels>Test Label</pr_labels>
+    <pr_thumb_url>http://localhost/uploads.prospervr.com/uploads/images/914870967_1.jpg</pr_thumb_url>
+    <pr_large_url>http://localhost/uploads.prospervr.com/uploads/images/914870967_2.jpg</pr_large_url>
+    <pr_audio_url>http://localhost/uploads.prospervr.com/uploads/audios/914870967.mp3</pr_audio_url>
+    <pr_audio_url>http://localhost/uploads.prospervr.com/uploads/audios/914870967_0.mp3</pr_audio_url>
+    <pr_audio_url>http://localhost/uploads.prospervr.com/uploads/audios/914870967_1.mp3</pr_audio_url>
+  </prdata>
+  <prdata>
+    <pruploader_name>Potrait Test1</pruploader_name>
+    <pruploader_email>bikramtpa@gmail.com</pruploader_email>
+    <prvideoname>Potrait Test</prvideoname>
+    <pr_ogg1>http://localhost/uploads.prospervr.com/uploads/videos/2119093573_1.ogg</pr_ogg1>
+    <pr_ogg2>http://localhost/uploads.prospervr.com/uploads/videos/2119093573_2.ogg</pr_ogg2>
+    <pr_ogg3>http://localhost/uploads.prospervr.com/uploads/videos/2119093573_3.ogg</pr_ogg3>
+    <prvideourl>http://localhost/uploads.prospervr.com/uploads/videos/2119093573.mp4</prvideourl>
+    <prdesc>Hey...</prdesc>
+    <prloc>Tampere</prloc>
+    <pr_labels>Test Label</pr_labels>
+    <pr_thumb_url>http://localhost/uploads.prospervr.com/uploads/images/2119093573_1.jpg</pr_thumb_url>
+    <pr_large_url>http://localhost/uploads.prospervr.com/uploads/images/2119093573_2.jpg</pr_large_url>
+    <pr_audio_url>http://localhost/uploads.prospervr.com/uploads/audios/2119093573.mp3</pr_audio_url>
+    <pr_audio_url>http://localhost/uploads.prospervr.com/uploads/audios/2119093573_0.mp3</pr_audio_url>
+    <pr_audio_url>http://localhost/uploads.prospervr.com/uploads/audios/2119093573_1.mp3</pr_audio_url>
+  </prdata>
+  <prdata>
+    <pruploader_name>Potrait Test1</pruploader_name>
+    <pruploader_email>bikramtpa@gmail.com</pruploader_email>
+    <prvideoname>Potrait Test</prvideoname>
+    <pr_ogg1>http://localhost/uploads.prospervr.com/uploads/videos/1664352351_1.ogg</pr_ogg1>
+    <pr_ogg2>http://localhost/uploads.prospervr.com/uploads/videos/1664352351_2.ogg</pr_ogg2>
+    <pr_ogg3>http://localhost/uploads.prospervr.com/uploads/videos/1664352351_3.ogg</pr_ogg3>
+    <prvideourl>http://localhost/uploads.prospervr.com/uploads/videos/1664352351.mp4</prvideourl>
+    <prdesc>Hey...</prdesc>
+    <prloc>Tampere</prloc>
+    <pr_labels>Test Label</pr_labels>
+    <pr_thumb_url>http://localhost/uploads.prospervr.com/uploads/images/1664352351_1.jpg</pr_thumb_url>
+    <pr_large_url>http://localhost/uploads.prospervr.com/uploads/images/1664352351_2.jpg</pr_large_url>
+    <pr_audio_url>http://localhost/uploads.prospervr.com/uploads/audios/1664352351.mp3</pr_audio_url>
+    <pr_audio_url>http://localhost/uploads.prospervr.com/uploads/audios/1664352351_0.mp3</pr_audio_url>
+    <pr_audio_url>http://localhost/uploads.prospervr.com/uploads/audios/1664352351_1.mp3</pr_audio_url>
+  </prdata>
+  <prdata>
+    <pruploader_name>Bikram Thapa</pruploader_name>
+    <pruploader_email>bikramtpa@gmail.com</pruploader_email>
+    <prvideoname>Potrait Test</prvideoname>
+    <pr_ogg1>http://localhost/uploads.prospervr.com/uploads/videos/381563693_1.ogg</pr_ogg1>
+    <pr_ogg2>http://localhost/uploads.prospervr.com/uploads/videos/381563693_2.ogg</pr_ogg2>
+    <pr_ogg3>http://localhost/uploads.prospervr.com/uploads/videos/381563693_3.ogg</pr_ogg3>
+    <prvideourl>http://localhost/uploads.prospervr.com/uploads/videos/381563693.mp4</prvideourl>
+    <prdesc>Test Here..</prdesc>
+    <prloc>Tampere</prloc>
+    <pr_labels>This is Label</pr_labels>
+    <pr_thumb_url>http://localhost/uploads.prospervr.com/uploads/images/381563693_1.jpg</pr_thumb_url>
+    <pr_large_url>http://localhost/uploads.prospervr.com/uploads/images/381563693_2.jpg</pr_large_url>
+    <pr_audio_url>http://localhost/uploads.prospervr.com/uploads/audios/381563693.mp3</pr_audio_url>
+    <pr_audio_url>http://localhost/uploads.prospervr.com/uploads/audios/381563693_0.mp3</pr_audio_url>
+    <pr_audio_url>http://localhost/uploads.prospervr.com/uploads/audios/381563693_1.mp3</pr_audio_url>
+  </prdata>
+</prvalues>
